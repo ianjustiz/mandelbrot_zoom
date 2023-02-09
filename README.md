@@ -1,2 +1,2 @@
 # mandelbrot_zoom
-Dynamically zoomable mandelbrot
+Interactive, zoomable Mandelbrot fractal generator
