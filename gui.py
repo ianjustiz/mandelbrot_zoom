@@ -1,10 +1,9 @@
 from tkinter.tix import MAX
-from main import *
+from main import display_mandelbrot
 
 import pygame
 import PySimpleGUI as gui
 
-import 
 
 # Set GUI theme
 gui.theme("SystemDefaultForReal")

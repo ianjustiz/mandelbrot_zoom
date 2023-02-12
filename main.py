@@ -2,7 +2,9 @@ MAX_ITERATE = 150
 CONVERGENCE_CUTOFF = 50
 SIZE = 400
 
-gui.theme("SystemDefaultForReal")
+import pygame
+
+# gui.theme("SystemDefaultForReal")
 
 
 # Function to determine convergence at a point on the complex plane.
